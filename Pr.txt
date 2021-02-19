@@ -1,0 +1,16 @@
+Python :
+https://www.python.org/downloads/
+
+Anaconda :
+https://www.anaconda.com/products/individual
+=====> From "Anaconda navigator", install "Jupyter" & "Spider"
+
+Tenserflow :
+https://stackabuse.com/installing-tensorflow-on-windows/
+
+pip install numpy
+git clone https://github.com/sloria/TextBlob.git
+pip install textBlob
+pip install opencv-python
+pip install scikit-learn
+
